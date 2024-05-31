@@ -1,0 +1,6 @@
+train: /Users/rewatiramansingh/Desktop/DS /LICENSE PLATE DATA SET/train
+val: /Users/rewatiramansingh/Desktop/DS /LICENSE PLATE DATA SET/val
+
+nc: 1
+name: ["License_plate"]
+
