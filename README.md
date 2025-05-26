@@ -84,7 +84,7 @@ yolo task=detect mode=predict model=best.pt source='path/to/image.jpg'
 
 #### Detected Plates
 
-![Detected](path/to/detected_output.jpg)
+![Detected](output.jpeg)
 
 ---
 
